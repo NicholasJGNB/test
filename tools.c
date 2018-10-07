@@ -14,3 +14,8 @@ int dev(int a, int b)
 {
 	return a / b;
 }
+
+int str2int()
+{
+	return 0;
+}
