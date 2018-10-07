@@ -19,3 +19,8 @@ int str2int()
 {
 	return 0;
 }
+
+char* int2str()
+{
+	return NULL;
+}
