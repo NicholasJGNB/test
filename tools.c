@@ -22,5 +22,11 @@ int str2int()
 
 char* int2str()
 {
-	return NULL;
+	char buf[100];
+	return buf;
+}
+
+int hahah(int a, char *buf)
+{
+	return 0;
 }
